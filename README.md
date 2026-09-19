@@ -25,3 +25,10 @@ A local AI chatbot that answers questions from college documents.
    ollama pull llama3.2
    ollama pull nomic-embed-text
    ollama serve
+   ## Screenshots
+
+### Chatbot Workflow
+![Chatbot workflow](chatbot-workflow.png)
+
+### Chatbot Demo
+![Chatbot demo](chatbot-demo.png)
