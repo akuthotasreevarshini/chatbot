@@ -35,3 +35,5 @@ A local AI chatbot that answers questions from college documents.
 
 ### Chatbot Demo
 ![Chatbot Demo](chatbot-demo.png)
+### Workflow and Live Chat Demo
+![Workflow and Live Chat Demo](chatbot-workflow-live-demo.png)
